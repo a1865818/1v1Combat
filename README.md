@@ -1,1 +1,1 @@
-# 2v2Combat
+# 1v1Combat
